@@ -1,5 +1,10 @@
 ### Hi there 👋
 <h1>Miguel Silva</h1>
+
+<div align="center">
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+</div>
+
 <!--
 **migu3lls/migu3lls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
