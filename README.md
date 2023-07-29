@@ -1,5 +1,10 @@
 ### Hi there 👋
-<h1>Miguel Silva</h1>
+
+<h1 align="center">
+  
+  Miguel Silva
+  
+</h1>
 
 <div align="center">
   
