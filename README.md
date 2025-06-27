@@ -43,10 +43,9 @@
 
 ### ✍️ Curiosidades
 
-- 📚 Gosto de escrever — estou criando um livro de ação!
 - 🧠 Sempre estudando novas tecnologias e boas práticas
-- 🎮 Gamer nas horas vagas — cultura geek me inspira
-- 🎯 Buscando evoluir como full stack e contribuir com a comunidade
+- 🎮 Gamer nas horas vagas 
+- 🎯 Buscando evoluir como full stack 
 
 ---
 
