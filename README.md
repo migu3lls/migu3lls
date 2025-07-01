@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/React_Native-blue?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 </p>
 
