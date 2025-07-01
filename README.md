@@ -52,7 +52,7 @@
 ### 📫 Onde me encontrar
 
 <p>
-  <a href="https://linkedin.com/in/seulinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/miguellourencodasilva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:miguelldsilva@outlook.com">
