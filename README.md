@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá Mundo! eu sou o Miguel Lourenço</h1>
-<h3 align="center">💻 Estudante de TI | Desenvolvedor Web & Mobile | Apaixonado por soluções criativas</h3>
+<h3 align="center">💻 Estudante de TI | "Desenvolvedor" Web & Mobile | Apaixonado por soluções criativas</h3>
 
 <p align="center">
   <!--<img src="https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=000" /> -->
@@ -15,7 +15,7 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Formando em **Análise e Desenvolvimento de Sistemas**
+- 🎓 4/5 Formando em **Análise e Desenvolvimento de Sistemas**
 - 🏢 Profissional de TI em uma empresa com +250 usuários
 - 🌱 Atualmente trabalho com infraestrutura de TI, mas estou **em transição para a área de desenvolvimento**
 - 🚀 Buscando oportunidade como dev
