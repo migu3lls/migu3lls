@@ -1,84 +1,39 @@
-<h1 align="center">👋 Olá Mundo! eu sou o Miguel Lourenço</h1>
-<h3 align="center">💻 Estudante de TI | "Desenvolvedor" Web & Mobile | Apaixonado por soluções criativas</h3>
+# Miguel Lourenço
+**Desenvolvedor Full Stack & Mobile | Profissional de TI**
 
-<p align="center">
-  <!--<img src="https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=000" /> -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/React_Native-blue?logo=react&logoColor=white" />
-   <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> -->
-  <!-- <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /> -->
-</p>
+Buscando sempre criar soluções eficientes, automatizadas e com design limpo. Formado em Análise e Desenvolvimento de Sistemas (Anhanguera), atuo na área de infraestrutura de TI e desenvolvo soluções completas como freelancer, desde o levantamento de requisitos até o deploy.
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🎓 4/5 Formando em **Análise e Desenvolvimento de Sistemas**
-- 🏢 Profissional de TI em uma empresa com +250 usuários
-- 🌱 Atualmente trabalho com infraestrutura de TI, mas estou **em transição para a área de desenvolvimento**
-- 🚀 Buscando oportunidade como dev
-- ✨ Criando sites com estilo minimalista e visual moderno
-- ☁️ Criador da <a href="https://migu3lls.github.io/10ATIVAS-LTDA/">10ATIVAS enterprise </a>
+* **Experiência:** Atuo como Assistente de TI em um ambiente corporativo (+250 usuários) e como Desenvolvedor Freelancer.
+* **Foco atual:** Construção de aplicações Web e Mobile, integração de APIs e automação de processos.
+* **Infraestrutura:** Entusiasta de Home Labs, virtualização e gerenciamento de servidores.
+
+### 💻 Tecnologias e Ferramentas
+
+* **Linguagens:** C#, Java, Python, JavaScript, HTML5, CSS3
+* **Frontend e Mobile:** React, React Native, Expo, Bootstrap
+* **Backend e Banco de Dados:** .NET, Node.js, Firebase
+* **Infraestrutura e Automação:** Proxmox, Ubuntu Server, Nginx, Docker, n8n, Selenium, PyAutoGUI
+* **Design e Versionamento:** Git, GitHub, Figma
+
+### 📂 Projetos em Destaque
+
+* **[To-Do App](https://github.com/migu3lls/to-do-app-expo):** Aplicativo de lista de tarefas focado em usabilidade, construído utilizando HTML5, CSS3 e JavaScript.
+* **App de Irradiação Solar:** Aplicativo móvel para cálculo de irradiação integrado com a API NASA POWER.
+* **Wallet App (Controle Financeiro):** MVP de aplicativo para gestão de finanças pessoais com backend estruturado em .NET.
+
+### ✍️ Curiosidades e Interesses
+
+* 🧠 Aprendizado contínuo em novas tecnologias, arquiteturas de software e boas práticas.
+* 📈 Grande interesse por educação financeira e investimentos.
+* 📚 Leitor assíduo de Stephen King e fã do universo Harry Potter.
+* 🎮 Nas horas vagas, divido meu tempo entre partidas de Xadrez, Mega Man, Pokémon FireRed e Rocket League.
 
 ---
 
-### 🎯 Tecnologias que gosto de usar
+### 📫 Contato
 
-- 🌐 Web: HTML, CSS, JavaScript, Bootstrap
-- 📱 Mobile: React Native, Expo
-- ☁️ Backend: Firebase, Node.js, Express
-- ⚙️ Extras: Git, GitHub, Figma, Docker (iniciante)
-
----
-
-### ✍️ Curiosidades
-
-- 🧠 Sempre estudando novas tecnologias e boas práticas
-- 🎮 Gamer nas horas vagas 
-- 🎯 Buscando evoluir como full stack 
-
----
-
-### 📫 Onde me encontrar
-
-<p>
-  <a href="https://www.linkedin.com/in/miguellourencodasilva/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:miguelldsilva@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white" />
-  </a>
-  
-  <a href="https://seusite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000?logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">✨ Obrigado por visitar meu perfil!</p>
-
-
-<!--
-<div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-**migu3lls/migu3lls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/miguellourencodasilva/) 🔹 [E-mail](mailto:miguelldsilva@outlook.com) 🔹 [Portfólio](https://seusite.com)
