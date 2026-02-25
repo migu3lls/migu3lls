@@ -23,7 +23,7 @@ Buscando sempre criar soluções eficientes, automatizadas e com design limpo. F
 
 * **[To-Do App](https://github.com/migu3lls/to-do-app-expo):** Aplicativo de lista de tarefas focado em usabilidade, construído utilizando HTML5, CSS3 e JavaScript.
 * **App de Irradiação Solar:** Aplicativo móvel para cálculo de irradiação integrado com a API NASA POWER.
-* **Wallet App (Controle Financeiro):** MVP de aplicativo para gestão de finanças pessoais com backend estruturado em .NET.
+* **FinanceOS (Controle Financeiro):** MVP de aplicativo para gestão de finanças pessoais.
 
 ### ✍️ Curiosidades e Interesses
 
