@@ -1,7 +1,7 @@
 # Miguel Lourenço
 **Desenvolvedor Full Stack & Mobile | Profissional de TI**
 
-Buscando sempre criar soluções eficientes, automatizadas e com design limpo. Formado em Análise e Desenvolvimento de Sistemas (Anhanguera), atuo na área de infraestrutura de TI e desenvolvo soluções completas como freelancer, desde o levantamento de requisitos até o deploy.
+Buscando sempre criar soluções eficientes, automatizadas e com design limpo. Formado em Análise e Desenvolvimento de Sistemas (Anhanguera), atuo na área de infraestrutura de TI e desenvolvo soluções completas como desenvolvedor, desde o levantamento de requisitos até o deploy.
 
 ---
 
