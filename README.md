@@ -28,7 +28,6 @@ Buscando sempre criar soluções eficientes, automatizadas e com design limpo. F
 ### ✍️ Curiosidades e Interesses
 
 * 🧠 Aprendizado contínuo em novas tecnologias, arquiteturas de software e boas práticas.
-* 📈 Grande interesse por educação financeira e investimentos.
 * 📚 Leitor assíduo de Stephen King e fã do universo Harry Potter.
 * 🎮 Nas horas vagas, divido meu tempo entre partidas de Xadrez, Mega Man, Pokémon FireRed e Rocket League.
 
