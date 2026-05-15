@@ -22,7 +22,8 @@ Buscando sempre criar soluções eficientes, automatizadas e com design limpo. F
 ### 📂 Projetos em Destaque
 
 * **[To-Do App](https://github.com/migu3lls/to-do-app-expo):** Aplicativo de lista de tarefas focado em usabilidade, construído utilizando HTML5, CSS3 e JavaScript.
-* **App de Irradiação Solar:** Aplicativo móvel para cálculo de irradiação integrado com a API NASA POWER.
+* **[App de Irradiação Solar](https://solar.engsolucoeseletricas.com.br):** Aplicativo móvel para cálculo de irradiação integrado com a API NASA POWER.
+* **[Freelancer OS](https://freelancer-dashboard-topaz.vercel.app):** uma plataforma operacional para freelancers e microestudios controlarem projetos, clientes, entregas, relatorios e financeiro em um unico sistema.
 * **[FinanceOS (Controle Financeiro)](https://github.com/migu3lls/finance-os):** MVP de aplicativo para gestão de finanças pessoais.
 
 ### ✍️ Curiosidades e Interesses
